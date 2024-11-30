@@ -472,7 +472,7 @@ body {
 \*-----------------------------------*/
 
 .hero {
-  padding-block-start: calc(var(--section-padding) + 10px);
+  /* padding-block-start: calc(var(--section-padding) + 10px); */
 }
 
 .hero .container {
